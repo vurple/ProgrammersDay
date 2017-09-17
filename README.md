@@ -1,4 +1,4 @@
-# Repository that hosts programs for the 2^5 Competition 2017
+# 2^5 Competition 2017
 
 ## BenchmarkPrimeGenerators.rb
 BenchmarkPrimeGenerators.rb is a ruby program that outputs the benchmarking results of the various Prime generators in the [Prime Ruby Gem](https://ruby-doc.org/stdlib-1.9.3/libdoc/prime/rdoc/Prime.html)
