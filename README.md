@@ -32,7 +32,7 @@ Benchmark time:
 ```
 
 ## Unicorn.py
-Unicorn.py is a python program that prints out [unicorn ASCII art](http://www.ascii-art.de/ascii/uvw/unicorn.txt).
+Unicorn.py is a python program that prints out [unicorn ASCII art](http://www.ascii-art.de/ascii/uvw/unicorn.txt). This was inspired by the [Unicorn Designer Dilemma](http://www.usabilitycounts.com/2013/07/24/unicorn-designer-dilemma-avoid/).
 
 ```
 ➜  python2 Unicorn.py
