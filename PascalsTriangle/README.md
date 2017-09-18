@@ -1,3 +1,5 @@
+## PascalsTriangle.kt 
+
 PascalsTriangle.kt is a Kotlin program that prints out a Pascal's triangle for the given height.
 
 To run and execute this program from command line:
