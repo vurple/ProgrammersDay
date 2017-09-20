@@ -3,3 +3,4 @@
 ### Submissions
 * [Benchmark Prime Number generators](https://github.com/vurple/ProgrammersDay/tree/master/BenchmarkPrimeNumbers)
 * [Unicorn ASCII art](https://github.com/vurple/ProgrammersDay/tree/master/Unicorn)
+* [Pascal's Triangle](https://github.com/vurple/ProgrammersDay/tree/master/PascalsTriangle)
